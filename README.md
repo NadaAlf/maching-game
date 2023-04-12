@@ -1,10 +1,10 @@
-# matching game
+# Matching Game
 
 
 ### The idea of the application:
-##### There is two images and you have to match between them to win!
+##### There are two images and you have to match between them to win!
 
-here is an example: 
+Here is an example: 
 
 <div>
 <img src="https://user-images.githubusercontent.com/120380624/231353393-589b22da-51fe-4760-8843-dd5aff3d1cf3.png" width="250" height="450">
